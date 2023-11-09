@@ -1,6 +1,6 @@
 # Dockerized 2048 Game Deployment on AWS Elastic Beanstalk
 
-This project create the popular 2048 game using Docker and deploys it to AWS Elastic Beanstalk. The 2048 game source code is available at [https://github.com/gabrielecirulli/2048](https://github.com/gabrielecirulli/2048).
+This project create the popular 2048 game using Docker and deploys it to AWS Elastic Beanstalk. The 2048 game source code is available at [https://github.com/gabrielecirulli/2048](https://github.com/gabrielecirulli/2048). Thanks to [N4si](https://github.com/N4si) for the step by step walkthrough.
 
 ## Prerequisites
 
